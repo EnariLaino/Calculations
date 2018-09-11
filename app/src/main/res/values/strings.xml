@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculations</string>
+    <string name="Enter_a_number">Enter a number</string>
+    <string name="Unit_price">Unit price</string>
+    <string name="Number_of_units">Number of units</string>
+    <string name="Excl.VAT">Unit price excel. VAT</string>
+    <string name="Incl.VAT">Unit price incl. VAT</string>
+    <string name="Clear">CLEAR</string>
+    <string name="OK">OK</string>
+    <string name="Amount_excel">Amount excl. of VAT</string>
+</resources>
+
